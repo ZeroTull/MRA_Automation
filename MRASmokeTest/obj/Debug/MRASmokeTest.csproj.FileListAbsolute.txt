@@ -1,0 +1,12 @@
+C:\Users\w7dmitryc\Documents\Visual Studio 2012\Projects\MRASmokeTest\MRASmokeTest\bin\Debug\MRASmokeTest.dll
+C:\Users\w7dmitryc\Documents\Visual Studio 2012\Projects\MRASmokeTest\MRASmokeTest\bin\Debug\MRASmokeTest.pdb
+C:\Users\w7dmitryc\Documents\Visual Studio 2012\Projects\MRASmokeTest\MRASmokeTest\bin\Debug\nunit.framework.dll
+C:\Users\w7dmitryc\Documents\Visual Studio 2012\Projects\MRASmokeTest\MRASmokeTest\bin\Debug\WebDriver.dll
+C:\Users\w7dmitryc\Documents\Visual Studio 2012\Projects\MRASmokeTest\MRASmokeTest\bin\Debug\WebDriver.Support.dll
+C:\Users\w7dmitryc\Documents\Visual Studio 2012\Projects\MRASmokeTest\MRASmokeTest\bin\Debug\nunit.framework.xml
+C:\Users\w7dmitryc\Documents\Visual Studio 2012\Projects\MRASmokeTest\MRASmokeTest\bin\Debug\WebDriver.xml
+C:\Users\w7dmitryc\Documents\Visual Studio 2012\Projects\MRASmokeTest\MRASmokeTest\bin\Debug\WebDriver.Support.xml
+C:\Users\w7dmitryc\Documents\Visual Studio 2012\Projects\MRASmokeTest\MRASmokeTest\obj\Debug\MRASmokeTest.csprojResolveAssemblyReference.cache
+C:\Users\w7dmitryc\Documents\Visual Studio 2012\Projects\MRASmokeTest\MRASmokeTest\obj\Debug\MRASmokeTest.dll
+C:\Users\w7dmitryc\Documents\Visual Studio 2012\Projects\MRASmokeTest\MRASmokeTest\obj\Debug\MRASmokeTest.pdb
+C:\Users\w7dmitryc\documents\visual studio 2012\Projects\MRASmokeTest\MRASmokeTest\bin\Debug\MRASmokeTest.dll.config
